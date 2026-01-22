@@ -1,0 +1,3 @@
+Paciente|1234|3|1724586027
+Medico|1234|2|N/A
+Operador|1234|1|N/A
